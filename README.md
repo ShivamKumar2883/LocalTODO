@@ -1,8 +1,55 @@
-# React + Vite
+# TODO App with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive todo list application built with React.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://reacttodoshivam.netlify.app/](https://reacttodoshivam.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add new tasks
+- Delete completed tasks
+- Responsive design
+- Clean user interface
+
+## Technologies
+- React
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Netlify (Hosting)
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/ShivamKumar2883/LocalTODO.git
+```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Run the app:
+```bash
+npm start
+```
+
+## How to Use
+1. Type your task in the input field
+2. Press Enter or click Add button
+3. Click the delete button to remove tasks
+
+## License
+MIT
+
+---
+
+Developed by [Shivam Kumar](https://github.com/ShivamKumar2883)
+``` 
+
+This is a clean, minimal README that includes:
+- Live demo link
+- Key features
+- Technology stack
+- Simple installation instructions
+- Basic usage guide
+- License information
+- Your credit
+
+Just copy and paste this into a new `README.md` file in your project root directory.
