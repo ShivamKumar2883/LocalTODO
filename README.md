@@ -38,18 +38,6 @@ npm start
 ## License
 MIT
 
----
 
 Developed by [Shivam Kumar](https://github.com/ShivamKumar2883)
-``` 
 
-This is a clean, minimal README that includes:
-- Live demo link
-- Key features
-- Technology stack
-- Simple installation instructions
-- Basic usage guide
-- License information
-- Your credit
-
-Just copy and paste this into a new `README.md` file in your project root directory.
